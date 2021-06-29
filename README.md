@@ -34,8 +34,7 @@
 - Shell and Eval
 - Torrent search supported:
 ```
-nyaa, sukebei, 1337x, piratebay, tgx,
-yts, eztv, torlock, rarbg
+nyaasi, sukebei, 1337x, piratebay, tgx, yts, eztv, torlock, rarbg
 ```
 - Direct links supported:
 ```
