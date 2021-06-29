@@ -32,13 +32,13 @@
 - Counting file/folder
 - View Link button
 - Shell and Eval
-- Torrent search supported:
-```
-nyaasi, sukebei, 1337x, piratebay, tgx, yts, eztv, torlock, rarbg
-```
 - Direct links supported:
 ```
 letsupload.io, hxfile.co, anonfiles.com, fembed.com, femax20.com, layarkacaxxi.icu, naniplay.com, naniplay.nanime.in, naniplay.nanime.biz, sbembed.com, streamsb.net, feurl.com, pixeldrain.com, uptobox.com (Uptobox account must be premium), 1drv.ms (Only works for file not folder or business account)
+```
+- Torrent search supported:
+```
+nyaasi, sukebei, 1337x, piratebay, tgx, yts, eztv, torlock, rarbg
 ```
 ## From Original Repos
 - Mirroring direct download links, Torrent, and Telegram files to Google Drive
