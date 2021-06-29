@@ -69,6 +69,7 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.
 ```
 
 # How to deploy?
+**NOTE**: Please read **README.MD** fully before deploy.
 Deploying is pretty much straight forward and is divided into several steps as follows:
 ## Installing requirements
 
